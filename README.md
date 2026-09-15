@@ -1,4 +1,4 @@
-# Josias Koudadze | Blog & Portfolio
+# KOUDADZE Kodjogan Josias | Blog & Portfolio
 
 Site personnel de Koudadze Kodjogan Josias, construit avec Jekyll et le thème [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy).
 
