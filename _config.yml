@@ -8,7 +8,9 @@ description: >-
   administrateur réseau et développeur Python au Togo.
 url: "https://koudadzejosias-wq.github.io"
 baseurl: ""
-url_locale: fr_FR
+
+github:
+  username: koudadzejosias-wq
 
 theme: jekyll-theme-chirpy
 
@@ -16,6 +18,7 @@ theme: jekyll-theme-chirpy
 avatar: ""
 social:
   name: "Koudadze Kodjogan Josias"
+  email: ""
   links:
     - "https://github.com/koudadzejosias-wq"
     - "https://www.linkedin.com/in/koudadze-josias/"
@@ -51,7 +54,7 @@ defaults:
       type: tabs
     values:
       layout: page
-      permalink: /:basename/
+      permalink: /:title/
 
 # Build
 plugins:
@@ -70,3 +73,12 @@ exclude:
   - LICENSE
   - .jekyll-cache
   - .sass-cache
+
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
