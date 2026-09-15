@@ -15,7 +15,8 @@ github:
 theme: jekyll-theme-chirpy
 
 # Profile
-avatar: ""
+avatar: "/assets/img/profile.jpeg"
+social_preview_image: "/assets/img/profile.jpeg"
 social:
   name: "Koudadze Kodjogan Josias"
   email: ""

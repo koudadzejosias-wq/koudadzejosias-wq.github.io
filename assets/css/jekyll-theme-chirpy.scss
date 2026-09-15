@@ -1,0 +1,23 @@
+---
+---
+
+@use "jekyll-theme-chirpy";
+
+/* Keep the Chirpy sidebar on the right on desktop screens. */
+@media all and (min-width: 1200px) {
+  #sidebar {
+    left: auto;
+    right: 0;
+  }
+
+  #main-wrapper {
+    margin-left: 0;
+    margin-right: 300px;
+  }
+
+  #topbar-wrapper,
+  #tail-wrapper {
+    margin-left: 0;
+    margin-right: 300px;
+  }
+}
