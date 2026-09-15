@@ -5,6 +5,10 @@ icon: fas fa-trophy
 order: 3
 ---
 
+## KOUDADZE Kodjogan Josias
+
+Mes victoires, certifications et distinctions dans le domaine de la cybersécurité.
+
 ## Compétitions
 
 ### 1ère place à la 3ème édition de la Cyberbattle
