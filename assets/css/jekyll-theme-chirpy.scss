@@ -3,12 +3,19 @@
 
 @use "jekyll-theme-chirpy";
 
-/* Keep the Chirpy sidebar on the right on desktop screens. */
-@media all and (min-width: 1200px) {
-  #sidebar {
-    left: auto;
-    right: 0;
-  }
+/* Keep the profile image visible and place the sidebar on the right. */
+#sidebar {
+  left: auto;
+  right: 0;
+}
+
+#sidebar #avatar {
+  background-image: url("/assets/img/profile.jpeg");
+  background-position: center;
+  background-size: cover;
+}
+
+@media all and (min-width: 850px) {
 
   #main-wrapper {
     margin-left: 0;
@@ -19,5 +26,12 @@
   #tail-wrapper {
     margin-left: 0;
     margin-right: 300px;
+  }
+}
+
+@media all and (max-width: 849px) {
+  #sidebar {
+    right: 0;
+    left: auto;
   }
 }
