@@ -1,0 +1,72 @@
+# Site identity
+lang: fr
+timezone: Africa/Lome
+title: "Josias Koudadze"
+tagline: "Cybersécurité, réseaux et développement Python"
+description: >-
+  Blog et portfolio personnel de Koudadze Kodjogan Josias, étudiant en cybersécurité,
+  administrateur réseau et développeur Python au Togo.
+url: "https://koudadzejosias-wq.github.io"
+baseurl: ""
+url_locale: fr_FR
+
+theme: jekyll-theme-chirpy
+
+# Profile
+avatar: ""
+social:
+  name: "Koudadze Kodjogan Josias"
+  links:
+    - "https://github.com/koudadzejosias-wq"
+    - "https://www.linkedin.com/in/koudadze-josias/"
+
+# Theme behavior
+paginate: 10
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+
+toc: true
+comments:
+  provider: false
+
+# Collections and navigation
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: false
+      toc: true
+      permalink: /posts/:title/
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:basename/
+
+# Build
+plugins:
+  - jekyll-archives
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - LICENSE
+  - .jekyll-cache
+  - .sass-cache
