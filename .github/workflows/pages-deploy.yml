@@ -19,23 +19,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v6
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3'
+          ruby-version: '3.4'
           bundler-cache: true
 
       - name: Build site
-        run: bundle exec jekyll build --future --trace
+        run: bundle exec jekyll build --future -d "_site${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
-          path: _site
+          path: "_site${{ steps.pages.outputs.base_path }}"
 
   deploy:
     environment:
@@ -46,4 +50,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
