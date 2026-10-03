@@ -4,42 +4,12 @@ title: Home
 icon: fas fa-home
 ---
 
-## KOUDADZE Kodjogan Josias
-
-Étudiant en **cybersécurité** à IPNET Institute of Technology, administrateur réseau et développeur Python basé à Lomé, Togo.
-
-Bienvenue sur mon blog et portfolio. Tu trouveras ici mes **write-ups CTF**, mes projets en cybersécurité, mes réalisations et mes notes sur Linux, les réseaux et le développement Python.
-
-Pour découvrir mon parcours complet, mes compétences et mes activités communautaires, consulte la page [À propos](/about/).
-
-## À la une
-
-### **Write-ups CTF**
-
-Des analyses détaillées de challenges de stéganographie, d'OSINT, de sécurité Web et de réseau.
-
-[Lire les write-ups](/categories/writeups/)
-
-### **Projets**
-
-Découvre **CyberForgeScan**, **Agro-Savoir** et mon laboratoire VoIP Asterisk/FreePBX.
-
-[Voir les projets](/projects/)
-
-### **Réalisations**
-
-1ère place à la 3ème édition de la Cyberbattle, certifications Hackviser, OPSWAT et Hack The Box.
-
-[Voir les réalisations](/achievements/)
-
-## Engagement communautaire
-
 <style>
 .portfolio-feature {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(260px, 42%);
   overflow: hidden;
-  margin: 1.5rem 0 2rem;
+  margin: 0 0 2rem;
   border: 1px solid rgba(127, 127, 127, 0.25);
   border-radius: 1rem;
   background: var(--card-bg, #1d1d1f);
@@ -53,7 +23,7 @@ Découvre **CyberForgeScan**, **Agro-Savoir** et mon laboratoire VoIP Asterisk/F
   padding: 1.75rem 2rem;
 }
 
-.portfolio-feature__content h3 {
+.portfolio-feature__content h2 {
   margin: 0 0 0.65rem;
 }
 
@@ -107,7 +77,7 @@ Découvre **CyberForgeScan**, **Agro-Savoir** et mon laboratoire VoIP Asterisk/F
 
 <article class="portfolio-feature">
   <div class="portfolio-feature__content">
-    <h3>Staff des YTH Cyber Days</h3>
+    <h2>Staff des YTH Cyber Days</h2>
     <p>
       Membre du staff de Youth Technology House pour une activité dédiée à la
       communauté technologique et cybersécurité.
@@ -121,15 +91,3 @@ Découvre **CyberForgeScan**, **Agro-Savoir** et mon laboratoire VoIP Asterisk/F
     <img src="/assets/img/community/yth-cyber-days-staff.png" alt="Staff des YTH Cyber Days">
   </div>
 </article>
-
-## Derniers articles
-
-- [Déploiement d'un réseau VoIP avec Asterisk](/posts/deploiement-reseau-voip-asterisk/)
-- [Transfers Desk : IDOR et race condition](/posts/transfers-desk/)
-- [Used Goods of Tomorrow : exploitation GraphQL](/posts/used-goods-of-tomorrow/)
-- [Chrono II expliqué simplement](/posts/chrono-ii/)
-- [NAS coal : macro cachée dans un fichier Office](/posts/nas-coal/)
-
-## Domaines
-
-`cybersécurité` · `CTF` · `Python` · `Linux` · `réseaux` · `VoIP`
