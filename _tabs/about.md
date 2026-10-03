@@ -29,6 +29,9 @@ Ce site rassemble mes writeups CTF, mes projets déployés, mes certifications e
 - **Programme Vacances Citoyennes Numériques** — FORCE-N (septembre 2025).
 - **Représentant / Délégué du Togo** — Best Diplomats London (prévu en novembre 2026).
 - **Participant** — Space Forum Africa, Hôtel Lébéné, Lomé (juillet 2026).
+- **Encadrement d'équipe** — participation au **FIRST LEGO League Challenge** en terminale.
+
+![Participation au FIRST LEGO League Challenge — encadrement d'équipe en terminale](/assets/img/certificates/first-lego-league.png)
 
 ## Certifications et distinctions
 
