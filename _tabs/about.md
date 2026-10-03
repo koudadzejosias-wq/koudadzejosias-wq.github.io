@@ -2,7 +2,7 @@
 layout: page
 title: À propos
 icon: fas fa-user
-order: 5
+order: 6
 ---
 
 # KOUDADZE Kodjogan Josias
