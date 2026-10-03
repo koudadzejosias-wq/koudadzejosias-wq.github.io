@@ -7,7 +7,7 @@ order: 4
 
 ## CyberForgeScan
 
-Outil Python d'analyse de logs et d'aide à l'identification d'événements de sécurité. Le projet met l'accent sur l'automatisation, la lisibilité des résultats et une base évolutive pour les investigations.
+Projet créé en février 2026 : outil Python multi-modules d'analyse de logs, de gestion sécurisée de fichiers et de génération de mots de passe. Il met l'accent sur l'automatisation, la lisibilité des résultats et une base évolutive pour les investigations.
 
 ## Agro-Savoir
 
@@ -15,6 +15,10 @@ Projet numérique orienté partage de connaissances et valorisation de contenus 
 
 ## Laboratoire VoIP
 
-Déploiement et expérimentation d'une infrastructure de téléphonie IP basée sur **Asterisk** et **FreePBX**, avec configuration des services, des extensions et des scénarios d'appel.
+Déploiement et expérimentation d'une infrastructure de téléphonie IP basée sur **Asterisk** et **FreePBX** sous environnement virtuel (mai 2026), avec configuration des services, des extensions et des scénarios d'appel.
+
+## Write-ups CTF
+
+Rédaction de comptes rendus techniques de challenges CTF, dont **Muraille d'Agbogbo**, afin de partager les méthodes d'analyse, les outils utilisés et les enseignements retenus.
 
 Les dépôts, démonstrations et writeups associés seront ajoutés progressivement sur ce site.

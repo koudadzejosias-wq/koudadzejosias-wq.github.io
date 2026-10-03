@@ -7,21 +7,26 @@ order: 3
 
 ## KOUDADZE Kodjogan Josias
 
-Mes victoires, certifications et distinctions dans le domaine de la cybersécurité.
+Mes victoires, certifications, formations et engagements dans le domaine de la cybersécurité.
 
 ## Compétitions
 
 ### 1ère place à la 3ème édition de la Cyberbattle
 
-Une victoire obtenue grâce au travail d'équipe, à l'analyse méthodique et à la résolution de challenges de sécurité dans un contexte compétitif.
+1ère place obtenue en équipe **Chibrax2000** lors de la troisième édition de cette compétition de cybersécurité (août 2026).
 
 ## Certifications
 
 - **Hackviser CORE** — Certified Cybersecurity Foundations CORE.
-- **OPSWAT Academy** — Introduction to Critical Infrastructure Protection (ICIP).
+- **OPSWAT Academy** — Introduction to Critical Infrastructure Protection (ICIP), mai 2026.
+- **Hack The Box** — Linux Fundamentals, mai 2026.
 
 ## Distinctions
 
 - Lauréat du **Passeport Numérique 10.000 Codeurs**.
 
-Cette page évoluera au fil des nouvelles compétitions, certifications et formations validées.
+## Engagements et conférences
+
+- **Programme Vacances Citoyennes Numériques** — FORCE-N, septembre 2025.
+- Participant au **Space Forum Africa**, Hôtel Lébéné, Lomé, juillet 2026.
+- Représentant / Délégué du Togo à **Best Diplomats London**, prévu en novembre 2026.
