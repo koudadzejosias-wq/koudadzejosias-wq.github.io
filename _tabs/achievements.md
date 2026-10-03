@@ -34,4 +34,3 @@ Mes victoires, certifications, formations et engagements dans le domaine de la c
 
 - **Programme Vacances Citoyennes Numériques** — FORCE-N, septembre 2025.
 - Participant au **Space Forum Africa**, Hôtel Lébéné, Lomé, juillet 2026.
-- Représentant / Délégué du Togo à **Best Diplomats London**, prévu en novembre 2026.
