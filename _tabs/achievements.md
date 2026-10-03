@@ -30,20 +30,6 @@ Mes victoires, certifications, formations et engagements dans le domaine de la c
 
 - Lauréat du **Passeport Numérique 10.000 Codeurs**.
 
-## Certificats
-
-<div class="certificate-gallery">
-
-![Certificat OPSWAT ICIP](/assets/img/certificates/opswat-icip.png)
-![Certificat Fortinet Certified Fundamentals in Cybersecurity](/assets/img/certificates/fortinet-certified-fundamentals.png)
-![Certificat Hackviser CORE](/assets/img/certificates/hackviser-core.png)
-![Certificat Cisco Introduction to Cybersecurity](/assets/img/certificates/cisco-introduction-cybersecurity.png)
-![Certificat Cisco Python Essentials 1](/assets/img/certificates/cisco-python-essentials-1.png)
-![Certificat Cisco English for IT 1](/assets/img/certificates/cisco-english-it-1.png)
-![Certificat Cisco English for IT 2](/assets/img/certificates/cisco-english-it-2.png)
-
-</div>
-
 ## Engagements et conférences
 
 - **Programme Vacances Citoyennes Numériques** — FORCE-N, septembre 2025.

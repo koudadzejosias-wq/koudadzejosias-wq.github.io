@@ -31,8 +31,6 @@ Ce site rassemble mes writeups CTF, mes projets déployés, mes certifications e
 - **Participant** — Space Forum Africa, Hôtel Lébéné, Lomé (juillet 2026).
 - **Encadrement d'équipe** — participation au **FIRST LEGO League Challenge** en terminale.
 
-![Participation au FIRST LEGO League Challenge — encadrement d'équipe en terminale](/assets/img/certificates/first-lego-league.png)
-
 ## Certifications et distinctions
 
 - **Certified Cybersecurity Foundations CORE** — Hackviser (2026).
