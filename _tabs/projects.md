@@ -17,6 +17,8 @@ Projet numérique orienté partage de connaissances et valorisation de contenus 
 
 Déploiement et expérimentation d'une infrastructure de téléphonie IP basée sur **Asterisk** et **FreePBX** sous environnement virtuel (mai 2026), avec configuration des services, des extensions et des scénarios d'appel.
 
+[Voir le dépôt GitHub du projet VoIP/Asterisk](https://github.com/koudadzejosias-wq/deploiement-reseau-voip-asterisk)
+
 ## Write-ups CTF
 
 Rédaction de comptes rendus techniques de challenges CTF, dont **Muraille d'Agbogbo**, afin de partager les méthodes d'analyse, les outils utilisés et les enseignements retenus.
