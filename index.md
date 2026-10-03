@@ -32,6 +32,12 @@ Découvre **CyberForgeScan**, **Agro-Savoir** et mon laboratoire VoIP Asterisk/F
 
 [Voir les réalisations](/achievements/)
 
+## Engagement communautaire
+
+Je fais partie du **staff des YTH Cyber Days**, une activité de Youth Technology House dédiée à la communauté technologique et cybersécurité.
+
+![Staff des YTH Cyber Days](/assets/img/community/yth-cyber-days-staff.png)
+
 ## Derniers articles
 
 - [Déploiement d'un réseau VoIP avec Asterisk](/posts/deploiement-reseau-voip-asterisk/)

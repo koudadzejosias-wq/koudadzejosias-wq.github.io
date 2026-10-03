@@ -24,6 +24,7 @@ Ce site rassemble mes writeups CTF, mes projets déployés, mes certifications e
 
 - **Licence 2 Cybersécurité** — IPNET Institute of Technology, Lomé (2026 – présent).
 - **Communication & Programming Lead** chez Youth Technology House (YTH).
+- **Membre du staff** des **YTH Cyber Days**.
 - **Formateur indépendant et bénévole IT & Cybersécurité** pour RedTeam-TG et CDEJ Ephphatha.
 - **Joueur de CTF** au sein de l'équipe **B1acK_Mini_2corpI0n / Chibrax2000**.
 - **Programme Vacances Citoyennes Numériques** — FORCE-N (septembre 2025).
