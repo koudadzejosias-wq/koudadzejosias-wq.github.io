@@ -1,23 +1,18 @@
 ---
-layout: home
-# Index page
+layout: page
+title: Home
+icon: fas fa-home
 ---
-
-<div class="profile-intro">
 
 ## KOUDADZE Kodjogan Josias
 
 Étudiant en **cybersécurité** à IPNET Institute of Technology, administrateur réseau et développeur Python basé à Lomé, Togo.
 
-Bienvenue sur mon blog et portfolio. Tu trouveras ici mes **writeups CTF**, mes projets en cybersécurité, mes réalisations et mes notes sur Linux, les réseaux et le développement Python.
+Bienvenue sur mon blog et portfolio. Tu trouveras ici mes **write-ups CTF**, mes projets en cybersécurité, mes réalisations et mes notes sur Linux, les réseaux et le développement Python.
 
 Pour découvrir mon parcours complet, mes compétences et mes activités communautaires, consulte la page [À propos](/about/).
 
-</div>
-
 ## À la une
-
-<div class="home-cards">
 
 ### 🛡️ Write-ups CTF
 
@@ -27,7 +22,7 @@ Des analyses détaillées de challenges de stéganographie, d'OSINT, de sécurit
 
 ### 🧰 Projets
 
-Découvrez **CyberForgeScan**, **Agro-Savoir** et mon laboratoire VoIP Asterisk/FreePBX.
+Découvre **CyberForgeScan**, **Agro-Savoir** et mon laboratoire VoIP Asterisk/FreePBX.
 
 [Voir les projets](/projects/)
 
@@ -37,10 +32,14 @@ Découvrez **CyberForgeScan**, **Agro-Savoir** et mon laboratoire VoIP Asterisk/
 
 [Voir les réalisations](/achievements/)
 
-</div>
+## Derniers articles
+
+- [Déploiement d'un réseau VoIP avec Asterisk](/posts/deploiement-reseau-voip-asterisk/)
+- [Transfers Desk : IDOR et race condition](/posts/transfers-desk/)
+- [Used Goods of Tomorrow : exploitation GraphQL](/posts/used-goods-of-tomorrow/)
+- [Chrono II expliqué simplement](/posts/chrono-ii/)
+- [NAS coal : macro cachée dans un fichier Office](/posts/nas-coal/)
 
 ## Domaines
 
 `cybersécurité` · `CTF` · `Python` · `Linux` · `réseaux` · `VoIP`
-
-> Les images de certifications, de projets et de write-ups seront ajoutées dès que tu les déposeras dans `assets/img/` ou que tu me transmettras un export Notion.
