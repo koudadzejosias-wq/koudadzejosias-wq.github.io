@@ -6,6 +6,8 @@ icon: fas fa-home
 
 ## KOUDADZE Kodjogan Josias
 
+![Photo de profil de KOUDADZE Kodjogan Josias](/assets/img/profile.jpeg){: .left w="180" h="180" }
+
 Étudiant en **cybersécurité** à IPNET Institute of Technology, administrateur réseau et développeur Python basé à Lomé, Togo.
 
 Bienvenue sur mon blog et portfolio. Tu trouveras ici mes **write-ups CTF**, mes projets en cybersécurité, mes réalisations et mes notes sur Linux, les réseaux et le développement Python.
