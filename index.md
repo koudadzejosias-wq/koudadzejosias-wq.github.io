@@ -14,19 +14,19 @@ Pour découvrir mon parcours complet, mes compétences et mes activités communa
 
 ## À la une
 
-### 🛡️ Write-ups CTF
+### **Write-ups CTF**
 
 Des analyses détaillées de challenges de stéganographie, d'OSINT, de sécurité Web et de réseau.
 
 [Lire les write-ups](/categories/writeups/)
 
-### 🧰 Projets
+### **Projets**
 
 Découvre **CyberForgeScan**, **Agro-Savoir** et mon laboratoire VoIP Asterisk/FreePBX.
 
 [Voir les projets](/projects/)
 
-### 🏆 Réalisations
+### **Réalisations**
 
 1ère place à la 3ème édition de la Cyberbattle, certifications Hackviser, OPSWAT et Hack The Box.
 
